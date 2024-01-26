@@ -63,6 +63,7 @@ if __name__ == "__main__":
     # define Plaintext
     Plaintext = [0 for _ in range(32)]
     key = list(K)
-    equation = encryption(5, Plaintext, key)
-    print(equation)
-    print(len(equation))
+    equation = encryption(6, Plaintext, key)
+    # for i in range(len(equation)):
+        # print("Equation #"+str(i+1)+":",equation[i],"\n")
+    # print("\nLen equation:",len(equation))

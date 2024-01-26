@@ -1,0 +1,66 @@
+Equation #1: k48*k53^2*k58 + k37*k48*k53 + k48*k53*k54 + k32*k53*k58 + k49*k53*k58 + k32*k37 + k37*k49 + k32*k54 + k16 + k33 + k48 + k50 
+
+Equation #2: k49*k54^2*k59 + k38*k49*k54 + k49*k54*k55 + k33*k54*k59 + k50*k54*k59 + k33*k38 + k38*k50 + k33*k55 + k17 + k34 + k49 + k51 
+
+Equation #3: k50*k55^2*k60 + k39*k50*k55 + k50*k55*k56 + k34*k55*k60 + k51*k55*k60 + k34*k39 + k39*k51 + k34*k56 + k18 + k35 + k50 + k52 
+
+Equation #4: k51*k56^2*k61 + k40*k51*k56 + k51*k56*k57 + k35*k56*k61 + k52*k56*k61 + k35*k40 + k40*k52 + k35*k57 + k19 + k36 + k51 + k53 
+
+Equation #5: k52*k57^2*k62 + k41*k52*k57 + k52*k57*k58 + k36*k57*k62 + k53*k57*k62 + k36*k41 + k41*k53 + k36*k58 + k20 + k37 + k52 + k54 
+
+Equation #6: k53*k58^2*k63 + k42*k53*k58 + k53*k58*k59 + k37*k58*k63 + k54*k58*k63 + k37*k42 + k42*k54 + k37*k59 + k21 + k38 + k53 + k55 
+
+Equation #7: k48*k54*k59^2 + k38*k48*k59 + k43*k54*k59 + k48*k55*k59 + k54*k59*k60 + k38*k43 + k43*k55 + k38*k60 + k22 + k39 + k54 + k56 
+
+Equation #8: k49*k55*k60^2 + k39*k49*k60 + k44*k55*k60 + k49*k56*k60 + k55*k60*k61 + k39*k44 + k44*k56 + k39*k61 + k23 + k40 + k55 + k57 
+
+Equation #9: k50*k56*k61^2 + k40*k50*k61 + k45*k56*k61 + k50*k57*k61 + k56*k61*k62 + k40*k45 + k45*k57 + k40*k62 + k24 + k41 + k56 + k58 
+
+Equation #10: k51*k57*k62^2 + k41*k51*k62 + k46*k57*k62 + k51*k58*k62 + k57*k62*k63 + k41*k46 + k46*k58 + k41*k63 + k25 + k42 + k57 + k59 
+
+Equation #11: k52*k58*k63^2 + k42*k52*k63 + k47*k58*k63 + k48*k58*k63 + k52*k59*k63 + k42*k47 + k42*k48 + k47*k59 + k26 + k43 + k58 + k60 
+
+Equation #12: k48^2*k53*k59 + k43*k48*k53 + k32*k48*k59 + k48*k49*k59 + k48*k53*k60 + k32*k43 + k43*k49 + k32*k60 + k27 + k44 + k59 + k61 
+
+Equation #13: k49^2*k54*k60 + k44*k49*k54 + k33*k49*k60 + k49*k50*k60 + k49*k54*k61 + k33*k44 + k44*k50 + k33*k61 + k28 + k45 + k60 + k62 
+
+Equation #14: k50^2*k55*k61 + k45*k50*k55 + k34*k50*k61 + k50*k51*k61 + k50*k55*k62 + k34*k45 + k45*k51 + k34*k62 + k29 + k46 + k61 + k63 
+
+Equation #15: k51^2*k56*k62 + k46*k51*k56 + k35*k51*k62 + k51*k52*k62 + k51*k56*k63 + k35*k46 + k46*k52 + k35*k63 + k30 + k47 + k48 + k62 
+
+Equation #16: k52^2*k57*k63 + k47*k52*k57 + k48*k52*k57 + k36*k52*k63 + k52*k53*k63 + k36*k47 + k36*k48 + k47*k53 + k31 + k32 + k49 + k63 
+
+Equation #17: k48*k53 + k32 + k49 
+
+Equation #18: k49*k54 + k33 + k50 
+
+Equation #19: k50*k55 + k34 + k51 
+
+Equation #20: k51*k56 + k35 + k52 
+
+Equation #21: k52*k57 + k36 + k53 
+
+Equation #22: k53*k58 + k37 + k54 
+
+Equation #23: k54*k59 + k38 + k55 
+
+Equation #24: k55*k60 + k39 + k56 
+
+Equation #25: k56*k61 + k40 + k57 
+
+Equation #26: k57*k62 + k41 + k58 
+
+Equation #27: k58*k63 + k42 + k59 
+
+Equation #28: k48*k59 + k43 + k60 
+
+Equation #29: k49*k60 + k44 + k61 
+
+Equation #30: k50*k61 + k45 + k62 
+
+Equation #31: k51*k62 + k46 + k63 
+
+Equation #32: k52*k63 + k47 + k48 
+
+
+Len equation: 32

@@ -8,7 +8,7 @@ def lshift(x, base):
 
 # define f function
 def f(x):
-    return xor(dot(x, lshift(x, 5)), lshift(x,1))
+    return xor(dot(lshift(x, 1), lshift(x, 8)), lshift(x,2))
 
 # xor just in GF2
 def xor(a,b):
@@ -80,13 +80,12 @@ def printAllRound():
         Plaintext = [0 for _ in range(32)]
         key = list(K)
         equation = encryption(ROUND, Plaintext, key)
-        filename = "SIMECK_output_"+str(ROUND)+"_Round.txt"
+        filename = "SIMON_output_"+str(ROUND)+"_Round.txt"
         with open(filename,"w") as f:
             for i in range(len(equation)):
                 f.write("Equation #"+str(i+1)+": "+str(equation[i])+"\n\n")
             f.write("\nLen equation: "+str(len(equation))+"\n")
         print("Success on created file",filename)
-
 if __name__ == "__main__":
     # test()
     printAllRound()

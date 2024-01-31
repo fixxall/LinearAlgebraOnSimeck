@@ -1,0 +1,66 @@
+Equation #1: k49*k56 + k32 + k50
+
+Equation #2: k50*k57 + k33 + k51
+
+Equation #3: k51*k58 + k34 + k52
+
+Equation #4: k52*k59 + k35 + k53
+
+Equation #5: k53*k60 + k36 + k54
+
+Equation #6: k54*k61 + k37 + k55
+
+Equation #7: k55*k62 + k38 + k56
+
+Equation #8: k56*k63 + k39 + k57
+
+Equation #9: k48*k57 + k40 + k58
+
+Equation #10: k49*k58 + k41 + k59
+
+Equation #11: k50*k59 + k42 + k60
+
+Equation #12: k51*k60 + k43 + k61
+
+Equation #13: k52*k61 + k44 + k62
+
+Equation #14: k53*k62 + k45 + k63
+
+Equation #15: k54*k63 + k46 + k48
+
+Equation #16: k48*k55 + k47 + k49
+
+Equation #17: k48
+
+Equation #18: k49
+
+Equation #19: k50
+
+Equation #20: k51
+
+Equation #21: k52
+
+Equation #22: k53
+
+Equation #23: k54
+
+Equation #24: k55
+
+Equation #25: k56
+
+Equation #26: k57
+
+Equation #27: k58
+
+Equation #28: k59
+
+Equation #29: k60
+
+Equation #30: k61
+
+Equation #31: k62
+
+Equation #32: k63
+
+
+Len equation: 32

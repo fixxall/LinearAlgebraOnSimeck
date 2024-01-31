@@ -1,0 +1,66 @@
+Equation #1: k48
+
+Equation #2: k49
+
+Equation #3: k50
+
+Equation #4: k51
+
+Equation #5: k52
+
+Equation #6: k53
+
+Equation #7: k54
+
+Equation #8: k55
+
+Equation #9: k56
+
+Equation #10: k57
+
+Equation #11: k58
+
+Equation #12: k59
+
+Equation #13: k60
+
+Equation #14: k61
+
+Equation #15: k62
+
+Equation #16: k63
+
+Equation #17: 0
+
+Equation #18: 0
+
+Equation #19: 0
+
+Equation #20: 0
+
+Equation #21: 0
+
+Equation #22: 0
+
+Equation #23: 0
+
+Equation #24: 0
+
+Equation #25: 0
+
+Equation #26: 0
+
+Equation #27: 0
+
+Equation #28: 0
+
+Equation #29: 0
+
+Equation #30: 0
+
+Equation #31: 0
+
+Equation #32: 0
+
+
+Len equation: 32
